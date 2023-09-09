@@ -1,5 +1,5 @@
-;1)Implementar un programa en el lenguaje assembler del simulador MSX88 que muestre en la pantalla de comandos un
-mensaje previamente almacenado en memoria de datos, aplicando la interrupción por software INT 7.
+;1)Implementar un programa en el lenguaje assembler del simulador MSX88 que muestre en la pantalla de comandos un 
+;mensaje previamente almacenado en memoria de datos, aplicando la interrupción por software INT 7.
 
 ORG 1000H
 MSJ DB "ARQUITECTURA DE COMPUTADORAS-"
