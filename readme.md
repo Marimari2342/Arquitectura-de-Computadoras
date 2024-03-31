@@ -14,5 +14,9 @@ Ejercicios prácticos de la materia Arquitectura de Computadoras.
 >
 >Acceder al [Programa de la materia](https://drive.google.com/file/d/1Q24VfwKfUoRwHqoLwC8-b6XkCZfQf-w-/view?usp=sharing).
 
+<br>
+<br>
+<br>
+
 <p><img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/firmagith.png" alt="marigit"/></p>
 
