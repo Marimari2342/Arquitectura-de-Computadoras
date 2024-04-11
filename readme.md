@@ -12,7 +12,7 @@ Ejercicios prácticos de la materia Arquitectura de Computadoras.
 >[!NOTE]
 >Año de cursada: 2023.
 >
->Acceder al [Programa de la materia](https://drive.google.com/file/d/1Q24VfwKfUoRwHqoLwC8-b6XkCZfQf-w-/view?usp=sharing).
+>Acceder al Programa de la materia  ➡️[<code>**AQUÍ**</code>](https://drive.google.com/file/d/1Q24VfwKfUoRwHqoLwC8-b6XkCZfQf-w-/view?usp=sharing).
 
 <br>
 <br>
